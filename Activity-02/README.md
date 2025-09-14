@@ -99,7 +99,7 @@ Here is an example execution of the required logic:
    Rainfall Analysis for the Malta Region
    --------------------------------------
 
-   What year is this data for?: **2020**
+   What year is this data for?: 2020
    Enter the rainfall in mm for each month...
    January  : 25
    February : 12
