@@ -20,6 +20,11 @@ Based on your selection of **ONE** of the last three activities, create a short 
 
 - **Your person (shoulders and up) MUST be visible at ALL TIMES** in a small rectangle at one of the corners of the screen to provide authentic proof of delivery (see grading rubric below for grade impact!)
 
+    - Recommended Recording Tool: [OBS Open Broadcaster Software](https://obsproject.com/)
+    - Set-up and How-To video's:
+        - [Video #1](https://www.youtube.com/watch?v=6abWf-5u3Gs)
+        - [Video #2](https://www.youtube.com/watch?v=hk7W9ECtpZE)
+
 - Properly identify the problem, solution, and the audience it is intended for.
 
 - The majority of the grade is based on a **demonstration of the envisioned solution**. 
