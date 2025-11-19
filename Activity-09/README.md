@@ -118,6 +118,14 @@ There are **closed-box functions** available to help you streamline some of the 
         - Amount to be paid
     - **RETURNS**: a **POSITIVE** transaction number (if successful) or **NEGATIVE** number (if payment failed)
 
+- `DispenseItem`:
+    - Used to physically dispense a product from a specific slot position.
+    - **PARAMS**: 
+        - A vending machine's unique identifier
+        - Slot position
+        - Quantity to dispense
+    - **RETURNS**: NOTHING
+
 - `SubmitOrder`:
     - Used to record an order that has been successfully placed.
     - **PARAMS**:
